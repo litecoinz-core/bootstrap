@@ -48,9 +48,9 @@ LitecoinZ's data directory will open. "AppData" and "Application Data" are hidde
 ## Data directory location
 Operating system | Default data directory location | Typical path to configuration file
 -----------------|---------------------------------|-----------------------------------
-Linux | $HOME/.litecoinz/ | /home/<username>/.litecoinz/litecoinz.conf
-Mac | $HOME/Library/Application Support/LitecoinZ/ | /Users/<username>/Library/Application Support/LitecoinZ/litecoinz.conf
-Windows | %APPDATA%\LitecoinZ\ | C:\Users\<username>\AppData\Roaming\LitecoinZ\litecoinZ.conf
+Linux | $HOME/.litecoinz/ | /home/\<username\>/.litecoinz/litecoinz.conf
+Mac | $HOME/Library/Application Support/LitecoinZ/ | /Users/\<username\>/Library/Application Support/LitecoinZ/litecoinz.conf
+Windows | %APPDATA%\\LitecoinZ\\ | C:\\Users\\\<username\>\\AppData\\Roaming\\LitecoinZ\\litecoinZ.conf
 
 ### Note
-On Windows XP, typical path to configuration file is C:\Documents and Settings\<username>\Application Data\LitecoinZ\litecoinz.conf
+On Windows XP, typical path to configuration file is C:\\Documents and Settings\\\<username\>\\Application Data\\LitecoinZ\\litecoinz.conf
