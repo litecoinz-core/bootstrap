@@ -18,14 +18,14 @@ Regardless of your operating system use the following steps to make use of the b
 You can download bootstrap.dat from the following locations:
 
 **github.com**
-[bootstrap.dat.xz](https://github.com/litecoinz-project/blockchain/releases/download/v0.0.1/bootstrap.dat.xz)
+[bootstrap.dat.xz](https://github.com/litecoinz-project/blockchain/releases/download/v0.0.2/bootstrap.dat.xz)
 
 ## Verify integrity
-- CRC-32: 2339f661
-- MD4: 81460e7d03c2a34e7971d1158be7bd33
-- MD5: d6b1bec62454330e02fd5b4a206fd29a
-- SHA-1: 25bd551480d0ce2593af476d4b699e86d081565b
-- SHA-256: b15c0d90effa993c0a05f69c2781dbe0dcbef65e104775d0cc63b7a07c631907
+- CRC-32: d649262d
+- MD4: bd929356a2cb73b6b9efce96d9ec5d23
+- MD5: cf2d161821efa604e746e0dfef8f2391
+- SHA-1: 8bfab505c45b01dd05a8388386fa255d0ed75242
+- SHA-256: a1e3c074041946e8a4fb1ad254fb1f05f0716691842e098e45f30e78887275be
 
 ## Extract bootstrap.dat
 **Linux**: ```xz -d bootstrap.dat.xz```
